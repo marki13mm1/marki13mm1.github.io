@@ -1,5 +1,6 @@
 MINALv1.0
-MINAL is a license with multiple options.
+---
+MINAL is a license with multiple options. \n
 Options:
 - AT | Attribution   | Other people who share your work MUST mention the original creator of the work.
 - !C | NoCommercial  | Other people who share your work are not allowed monitization of the content.
